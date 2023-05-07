@@ -1,6 +1,5 @@
 # Image-Watermarking-using-DCT
-Uses Discrete Cosine Transform(DCT) only. This is an invisible watermarking scheme. The algorithm also computes Normalized correlation between the actual and extracted watermark images. We also test a variety of geometric and signal-based attacks.
-
+Uses Discrete Cosine Transform(DCT) only. This is an invisible watermarking scheme. The algorithm also computes Normalized correlation between the actual and extracted watermark images.
 ## Embedding Watermark
 The function watermark_image(img, wm) embeds the watermark wm into image img.
 
