@@ -1,5 +1,7 @@
-# Image-Watermarking-using-DCT
-Uses Discrete Cosine Transform(DCT) only. This is an invisible watermarking scheme. The algorithm also computes Normalized correlation between the actual and extracted watermark images.
+# Blind_Copy_Right_Protection_using_DCT
+This project utilizes DCT to achieve blind copyright protection for images. The technique can prevent unauthorized use and distribution of digital content. The algorithm also calculates the normalized correlation between the actual watermark image and the extracted watermark image.
+
+
 ## Embedding Watermark
 The function watermark_image(img, wm) embeds the watermark wm into image img.
 
